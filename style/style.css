@@ -40,6 +40,10 @@ body {
   height: 20%;
   background-color: #252525;
 }
+.body .img-info .img img {
+  width: 100%;
+  height: 100%;
+}
 .body .img-info .button {
   height: 20%;
   display: flex;
