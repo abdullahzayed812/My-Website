@@ -54,6 +54,10 @@ body {
             width: 100%;
             height: $button-height;
             background-color: $black-color;
+            img {
+                width: 100%;
+                height: 100%;
+            }
         }
         .button {
             height: $button-height;
